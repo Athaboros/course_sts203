@@ -1,3 +1,10 @@
+---
+layout: default
+title: "STS203: History of Technology"
+course_description: "An survey of the major technological developments from ancient to modern times, with particular attention to social, political, and cultural contexts in Europe and the United States."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Eastern Transmissions** <span id="2"></span> 
 *The Chinese printed with movable type well before Gutenberg’s press
 (1450) and embarked on voyages of discovery well before Columbus (1492).

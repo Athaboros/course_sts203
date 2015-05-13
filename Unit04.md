@@ -1,3 +1,10 @@
+---
+layout: default
+title: "STS203: History of Technology"
+course_description: "An survey of the major technological developments from ancient to modern times, with particular attention to social, political, and cultural contexts in Europe and the United States."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Renaissance Technology** <span id="4"></span> 
 *The Renaissance artist Leonardo da Vinci once designed movable
 barricades to help protect the city of Venice and planned to literally

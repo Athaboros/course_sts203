@@ -1,3 +1,10 @@
+---
+layout: default
+title: "STS203: History of Technology"
+course_description: "An survey of the major technological developments from ancient to modern times, with particular attention to social, political, and cultural contexts in Europe and the United States."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: The Ancient World** <span id="1"></span> 
 *The popular statement “all roads lead to Rome” recalls a time when Rome
 controlled vast lands and peoples surrounding the entire Mediterranean.
