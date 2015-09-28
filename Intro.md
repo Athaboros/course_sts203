@@ -145,3 +145,4 @@ down with your calendar and decide to complete subunit 1.1 and subunit
 - [Unit 8](https://legacy.saylor.org/sts203/Unit08/)
 - [Unit 9](https://legacy.saylor.org/sts203/Unit09/)
 - [Unit 10](https://legacy.saylor.org/sts203/Unit10/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ELECTIVES/STS203/STS203-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ELECTIVES/STS203/STS203-FinalExam-Answers.html)
