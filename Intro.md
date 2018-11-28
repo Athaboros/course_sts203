@@ -8,6 +8,14 @@ previous: ../../../
 Course Syllabus for "STS203: History of Technology"
 ---------------------------------------------------
 
+**Please note: this [legacy course](https://sayloracademy.zendesk.com/hc/en-us/articles/206089967) does not offer a certificate and may contain 
+broken links and outdated information.** Although archived, it is open 
+for learning without registration or enrollment. Please consider contributing 
+updates to [this course on GitHub](https://github.com/saylordotorg/course_sts203) 
+(you can also adopt, adapt, and distribute this course under the terms of 
+the [Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/)). **To find fully-supported, current courses, [visit our 
+Learn site](https://learn.saylor.org).**
+
 This course provides an introduction to the history of technology for
 the Science, Technology, and Society (STS) major. The course surveys
 major technological developments from ancient to modern times with
@@ -85,7 +93,7 @@ computer;
  √    be competent in the English language; and  
   
  √    have read the [Saylor Student
-Handbook](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).  
+Handbook](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).  
 
 ### Course Information
 
@@ -130,4 +138,16 @@ down with your calendar and decide to complete subunit 1.1 and subunit
 1.2.1 (a total of 4.5 hours) on Monday night; subunits 1.2.2 through
 1.2.4 (a total of 4 hours) on Tuesday night; etc.  
     
+**Table of Contents:** You can find the course's units at the links below.
 
+- [Unit 1](https://legacy.saylor.org/sts203/Unit01/)
+- [Unit 2](https://legacy.saylor.org/sts203/Unit02/)
+- [Unit 3](https://legacy.saylor.org/sts203/Unit03/)
+- [Unit 4](https://legacy.saylor.org/sts203/Unit04/)
+- [Unit 5](https://legacy.saylor.org/sts203/Unit05/)
+- [Unit 6](https://legacy.saylor.org/sts203/Unit06/)
+- [Unit 7](https://legacy.saylor.org/sts203/Unit07/)
+- [Unit 8](https://legacy.saylor.org/sts203/Unit08/)
+- [Unit 9](https://legacy.saylor.org/sts203/Unit09/)
+- [Unit 10](https://legacy.saylor.org/sts203/Unit10/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ELECTIVES/STS203/STS203-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ELECTIVES/STS203/STS203-FinalExam-Answers.html)
